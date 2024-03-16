@@ -44,6 +44,8 @@ We inserted dummy `bndbox` element although the category indicated by `name` is 
 
 # Setup
 
+Please install [gdown](https://github.com/wkentaro/gdown) and then execute the following commands.
+
 ## Download original datasets
 
 ```
