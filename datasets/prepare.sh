@@ -1,9 +1,12 @@
 #!/usr/bin/env bash
 
+gdown 1LvxwCOfUa-OklIvBJhB8zJlochjJiPFS
+gdown 1fa2L6oaPSjZ1_WqlTmIp6i2RbdR2y1Pw
+gdown 1bZtVWcxxFrijE_ALvNPjH1MXIKio6BIr
+
 names=(clipart watercolor comic)
 for name in "${names[@]}"
 do
-    curl -O http://www.hal.t.u-tokyo.ac.jp/~inoue/projects/cross_domain_detection/datasets/${name}.zip
     unzip ${name}.zip
     rm ${name}.zip
 done
