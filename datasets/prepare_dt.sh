@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-curl -O http://www.hal.t.u-tokyo.ac.jp/~inoue/projects/cross_domain_detection/datasets/dt_datasets.zip
+gdown 1NH3NGxoIAOIvLd7PgO6woV9p4IaUJZdj
 unzip dt_datasets.zip
 rm dt_datasets.zip
