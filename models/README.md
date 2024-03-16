@@ -13,6 +13,4 @@ Mean average precision (mAP) \[%\] for each method is shown below.
 
 
 ## Download
-```
-bash download.sh
-```
+Please download from [here](https://drive.google.com/file/d/1g45007sObxoKG7zIEJAoCU3b9Cmka0VB/view?usp=drive_link).
